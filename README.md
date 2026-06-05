@@ -5,6 +5,17 @@ Upload two photos and the API will tell you if they belong to the same person.
 
 ---
 
+
+##ScreenShots:
+S1
+<img width="1858" height="827" alt="image" src="https://github.com/user-attachments/assets/af1806f4-582b-4646-97d3-8b466f5390a6" />
+S2
+<img width="1852" height="588" alt="image" src="https://github.com/user-attachments/assets/655a548d-23f8-439a-a065-5805ea9c1132" />
+S3
+<img width="1830" height="897" alt="image" src="https://github.com/user-attachments/assets/a2874f5c-c02a-4a7a-80c9-cfda73b4fb09" />
+
+
+
 ## Tech Stack
 
 - Python
